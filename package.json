@@ -1,0 +1,19 @@
+{
+  "name": "npmgps",
+  "version": "1.0.0",
+  "description": "npm package for GPS test for Sport Heroes Group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flickaber/npmgps.git"
+  },
+  "author": "Laura Bernard <flickaber@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flickaber/npmgps/issues"
+  },
+  "homepage": "https://github.com/Flickaber/npmgps#readme"
+}
